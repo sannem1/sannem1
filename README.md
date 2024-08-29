@@ -1,13 +1,5 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<div align="center" width="50">
-
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
-</div>
-
-<div align="center">
-
 
 <i>Happy Coding!</i> 😊
 
@@ -25,9 +17,8 @@
 ---
 
 
-<i>Follow me around the web:</i><br>
+#### Let's connect!
 
 <a href="https://www.linkedin.com/in/sriya-annem" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:sriyaannem@gmail.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Mail%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Mail"></a>
-
+[![Email](https://img.shields.io/badge/email-yourname%40domain.com-red?style=flat-square&logo=gmail)](mailto:sriyaannem@gmail.com)
 </div>
