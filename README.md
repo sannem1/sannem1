@@ -20,5 +20,5 @@
 #### Let's connect!
 
 <a href="https://www.linkedin.com/in/sriya-annem" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-[![Email](https://img.shields.io/badge/email-yourname%40domain.com-red?style=flat-square&logo=gmail)](mailto:sriyaannem@gmail.com)
+[![Email](https://img.shields.io/badge/email-black?style=flat-square&logo=gmail)](mailto:sriyaannem@gmail.com)
 </div>
