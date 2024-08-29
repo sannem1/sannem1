@@ -17,5 +17,5 @@ Feel free to check out our website to learn more about our initiatives, events, 
 
 <a href="https://www.linkedin.com/in/sriya-annem" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 [![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail)](mailto:sriyaannem@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-black?style=flat-square&logo=gmail)](https://docs.google.com/document/d/1ChOy7NG-2F0BXhCadsKBeDOiMgqvTEuSuoVHzYsokMg/edit?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-black?style=flat-square)](https://docs.google.com/document/d/1ChOy7NG-2F0BXhCadsKBeDOiMgqvTEuSuoVHzYsokMg/edit?usp=sharing)
 </div>
