@@ -2,7 +2,7 @@
 
 I'm Sriya Annem, a computer science student at the University of Kansas.
 ---
-I'm primarily interested in **full-stack development** 
+I'm primarily interested in **full-stack development, management in tech, and I am working towards a cyber security certificate** 
 
 ---
 
