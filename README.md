@@ -10,7 +10,7 @@ Feel free to check out my personal website to learn more about me:
 
 🔗 [Click Here](https://sannem1.github.io)
 
----
+***
 
  Currently, I'm serving as the President of Women in Computing at KU, where we strive to support and empower women in technology.
  
