@@ -14,9 +14,6 @@ Feel free to check out my personal website to learn more about me:
 
  Currently, I'm serving as the President of Women in Computing at KU, where we strive to support and empower women in technology.
  
- Feel free to check out our website to learn more about our initiatives, events, and how you can get involved:
- 
-🔗 [ukansas-wic.github.io](https://ukansas-wic.github.io)
 
 ---
 
